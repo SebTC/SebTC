@@ -1,4 +1,4 @@
-## Hi, I'm Sebastián 👋
+## Hi, I'm Sebastian :)
 
 I build AI tools that take the busywork off ops and support teams, with a human check on everything that reaches a client. Mechatronics engineer, based in Tegucigalpa, Honduras (Central Time). English and Spanish.
 
